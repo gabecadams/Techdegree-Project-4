@@ -1,5 +1,31 @@
-$color-primary: #278da4;
-$color-secondary: #b13c69;
-$color-accent: #eeea72;
-$color-shade: #eee;
-$color-text: #343434;
+// Descriptive color variables
+
+$white          : #fff;
+$teal           : #58e1c1;
+$blue           : #51ddfc;
+$red            : #e4757a;
+$orange         : #fd7856;
+$violet         : #927bc1;
+$green          : #63cc82;
+
+// Functional color variables
+
+$color-link-default : $blue;
+$color-link-visited : $regent-st-blue;
+$color-prim         : $teal;
+$color-sec          : $grey;
+$headline           : $black;
+$error-color        : $red;
+$warning-color      : $orange;
+$info-color         : $violet;
+$success-color      : $green;
+$base-color         : $grey;
+$default-color      : $blue;
+
+// Media Query Breakpoints
+
+$brk-wide : 768px;
+
+// Font weights
+
+$font-weight: 300px;
